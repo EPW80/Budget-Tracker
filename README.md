@@ -1,19 +1,28 @@
 # Budget Tracker
+
 Giving users a fast and easy way to track their money is important but allowing them to access that information at any time is even more important. A budget tracker app that allows the user to add expenses and make deposits while giving the user a money balance. The app is available offline and will still have full functionality.
 
-[Heroku Deployment](https://shrouded-citadel-92853.herokuapp.com/)
+## Installation
+
+```
+git clone
+git install
+```
+## Run the program with the following
+
+```
+node server.js
+```
+
+## Deployment
+
+[Heroku](https://shrouded-citadel-92853.herokuapp.com/)
 
 ## Demo
 
-<!-- ![](./public/icons/Untitled_%20Dec%2021%2C%202022%2010_57%20AM.gif) -->
-<img src="./public/icons/Untitled_%20Dec%2021%2C%202022%2010_57%20AM.gif" width=75% height=75%>
+![](./public/icons/demo.gif)
 
-## Screenshot
-
-<!-- ![](./public/budget.png) -->
-<img src="./public/budget.png" width=75% height=75%>
-
-# Built with
+# Built
 
 [Express.js](https://expressjs.com/)
 
